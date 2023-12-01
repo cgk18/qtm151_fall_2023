@@ -102,6 +102,7 @@ HINT: Remember to always refer to column names with at <br>
 least one capital letter with double quotations, e.g. "driverId" <br>
 HINT: See Lecture 16
 -- SQLBook: Code
+-- Active: 1699474063436@@127.0.0.1@5432@formula1
 -- Write your own code
 SELECT * FROM pit_stops;
 WHERE lap >= 1 AND lap <= 5;
